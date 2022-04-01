@@ -1,0 +1,10 @@
+{
+  "name": "browser-prefers-dark",
+  "version": "1.0.0",
+  "description": "A zero-dependency system dark-mode check for browsers.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["browser", "dark", "dark-mode", "css", "matchMedia"],
+  "author": "JDS <jdstubbs64@gmail.com>",
+  "license": "ISC"
+}
